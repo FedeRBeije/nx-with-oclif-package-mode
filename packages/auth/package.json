@@ -1,0 +1,12 @@
+{
+  "name": "auth",
+  "version": "1.2.0",
+  "description": "auth",
+  "main": "dist/index.js",
+  "scripts": {
+    "build": "tsc index.ts --outDir dist"
+  },
+  "dependencies": {
+    "user": "1.2.0"
+  }
+}

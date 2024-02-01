@@ -1,0 +1,9 @@
+{
+  "name": "is-even",
+  "version": "1.2.0",
+  "description": "",
+  "main": "dist/index.js",
+  "scripts": {
+    "build": "tsc index.ts --outDir dist"
+  }
+}
